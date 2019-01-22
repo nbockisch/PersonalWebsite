@@ -1,0 +1,32 @@
+body {
+	background-color: #fcf6ef;
+	font-family: Sans-Serif;
+}
+
+.text {
+	text-align: center;
+}
+
+h1 {
+	color: #383430;
+}
+
+h2 {
+	color: #5e5952;
+}
+
+p {
+	color: #827b72;
+}
+
+ul {
+	list-style-type: none;
+}
+
+li {
+	color: #827b72;
+}
+
+a {
+	color: #968e84;
+}
