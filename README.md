@@ -1,2 +1,2 @@
 # PersonalWebsite
-My personal website found here: cs.nmt.edu/~nbockisch
+My personal website found here: https://www.cs.nmt.edu/~nbockisch/
